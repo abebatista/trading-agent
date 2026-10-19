@@ -1,149 +1,167 @@
 {
   "account_number": "926627357",
-  "account_value": 8835.26,
+  "account_value": 8878.15,
   "buying_power": 525.79,
   "cash": 525.79,
   "high_water_mark": 10338.52,
-  "prior_session_value": 8835.26,
-  "last_trade_date": "2026-10-16",
-  "trades_today": 1,
-  "last_updated": "2026-10-16T11:17:33 EDT",
+  "prior_session_value": 8878.15,
+  "last_trade_date": "2026-10-19",
+  "trades_today": 0,
+  "last_updated": "2026-10-19 11:19:43 ET",
   "build_phase": "active",
   "schema_version": "1.2",
-  "drawdown_pct": 14.55,
-  "notes": "Session 2026-10-16 (Fri): 1 TRADE — BE BUY $150 (Earnings Rule / buy_weakness: -18.58% 5d, earnings Oct 22). Broad AI/data-center selloff — 17/18 names down ≥5% over 5 sessions. Drawdown 14.55% (Tier 1, approaching Tier 2 at 15%). IREN at 1.43pp gap (threshold 1.5pp, very close). BE now at 6.38% post-buy.",
+  "drawdown_pct": 14.13,
+  "notes": "Session 2026-10-19 (Mon): 0 TRADES — No entry triggers crossed. Broad sector bounce today (most AI names +1-8% from Fri). Drawdown 14.13% (Tier 1 reduced deployment). BE earns Oct 22 PM but above target at 6.34%. Tier 3 build phase still active at 14.2% combined (threshold 15%). IREN closest to T3 trigger at 1.39pp gap vs 1.5pp threshold. AMAT/VRT watching for 1.0pp tier4_low entry.",
   "positions": {
     "NVDA": {
-      "value": 2130.56,
-      "pct": 24.11,
+      "value": 2144.47,
+      "pct": 24.15,
       "qty": 9.832297,
       "avg_cost": 196.64,
-      "lots": []
+      "lots": [],
+      "price": 218.105
     },
     "AVGO": {
-      "value": 1121.6,
-      "pct": 12.69,
+      "value": 1127.86,
+      "pct": 12.7,
       "qty": 3.334114,
       "avg_cost": 393.85,
-      "lots": []
+      "lots": [],
+      "price": 338.28
     },
     "MU": {
-      "value": 865.58,
-      "pct": 9.79,
-      "qty": 0.967228,
-      "avg_cost": 1088.87,
-      "lots": []
+      "value": 890.4,
+      "pct": 10.03,
+      "qty": 0.967392,
+      "avg_cost": 1088.85,
+      "lots": [],
+      "price": 920.415
     },
     "CEG": {
-      "value": 346.82,
-      "pct": 3.92,
+      "value": 336.66,
+      "pct": 3.79,
       "qty": 1.274665,
       "avg_cost": 275.01,
-      "lots": []
+      "lots": [],
+      "price": 264.12
     },
     "GEV": {
-      "value": 337.23,
-      "pct": 3.82,
+      "value": 335.79,
+      "pct": 3.78,
       "qty": 0.363065,
       "avg_cost": 1101.73,
-      "lots": []
+      "lots": [],
+      "price": 924.865
     },
     "VST": {
-      "value": 445.38,
-      "pct": 5.04,
+      "value": 433.45,
+      "pct": 4.88,
       "qty": 2.893021,
       "avg_cost": 155.92,
-      "lots": []
+      "lots": [],
+      "price": 149.825
     },
     "BE": {
-      "value": 563.47,
-      "pct": 6.38,
-      "qty": 2.467087,
-      "avg_cost": 256.55,
+      "value": 562.53,
+      "pct": 6.34,
+      "qty": 2.466602,
+      "avg_cost": 256.61,
       "lots": [
         {
           "shares": 0.65628,
           "cost_per_share": 228.56,
           "date": "2026-10-16"
         }
-      ]
+      ],
+      "price": 228.06
     },
     "IREN": {
-      "value": 227.43,
-      "pct": 2.57,
+      "value": 231.3,
+      "pct": 2.61,
       "qty": 8.14433,
       "avg_cost": 52.29,
-      "lots": []
+      "lots": [],
+      "price": 28.4
     },
     "APLD": {
-      "value": 354.14,
-      "pct": 4.01,
+      "value": 364.97,
+      "pct": 4.11,
       "qty": 18.697441,
       "avg_cost": 32.51,
-      "lots": []
+      "lots": [],
+      "price": 19.52
     },
     "CORZ": {
-      "value": 315.75,
-      "pct": 3.57,
+      "value": 316.31,
+      "pct": 3.56,
       "qty": 22.626185,
       "avg_cost": 22.76,
-      "lots": []
+      "lots": [],
+      "price": 13.98
     },
     "CRWV": {
-      "value": 350.41,
-      "pct": 3.97,
+      "value": 348.22,
+      "pct": 3.92,
       "qty": 5.540514,
       "avg_cost": 90.33,
-      "lots": []
-    },
-    "NBIS": {
-      "value": 234.48,
-      "pct": 2.65,
-      "qty": 1.361138,
-      "avg_cost": 224.34,
-      "lots": []
-    },
-    "RIOT": {
-      "value": 177.66,
-      "pct": 2.01,
-      "qty": 12.077217,
-      "avg_cost": 22.68,
-      "lots": []
+      "lots": [],
+      "price": 62.85
     },
     "ASML": {
-      "value": 292.2,
-      "pct": 3.31,
+      "value": 295.3,
+      "pct": 3.33,
       "qty": 0.176262,
       "avg_cost": 1140.8,
-      "lots": []
+      "lots": [],
+      "price": 1675.32
+    },
+    "NBIS": {
+      "value": 232.8,
+      "pct": 2.62,
+      "qty": 1.361138,
+      "avg_cost": 224.34,
+      "lots": [],
+      "price": 171.0325
+    },
+    "RIOT": {
+      "value": 171.25,
+      "pct": 1.93,
+      "qty": 12.077217,
+      "avg_cost": 22.68,
+      "lots": [],
+      "price": 14.18
     },
     "AMD": {
-      "value": 178.74,
-      "pct": 2.02,
+      "value": 181.91,
+      "pct": 2.05,
       "qty": 0.330279,
       "avg_cost": 505.63,
-      "lots": []
+      "lots": [],
+      "price": 550.765
     },
     "AMAT": {
-      "value": 109.34,
-      "pct": 1.24,
+      "value": 111.41,
+      "pct": 1.25,
       "qty": 0.262156,
       "avg_cost": 637.56,
-      "lots": []
+      "lots": [],
+      "price": 424.9899
     },
     "MRVL": {
-      "value": 146.5,
-      "pct": 1.66,
+      "value": 152.01,
+      "pct": 1.71,
       "qty": 0.626885,
       "avg_cost": 266.52,
-      "lots": []
+      "lots": [],
+      "price": 242.49
     },
     "VRT": {
-      "value": 114.01,
-      "pct": 1.29,
+      "value": 113.92,
+      "pct": 1.28,
       "qty": 0.544555,
       "avg_cost": 306.73,
-      "lots": []
+      "lots": [],
+      "price": 209.19
     }
   },
   "tax_lots": [
@@ -212,5 +230,5 @@
     {"symbol": "VRT", "quantity": 0.544435, "cost_basis": 306.74, "acquired": "2026-06-26", "term": "short"}
   ],
   "pending_proposals": {},
-  "cash_pct": 5.95
+  "cash_pct": 5.92
 }
