@@ -1,168 +1,36 @@
 {
   "account_number": "926627357",
-  "account_value": 8878.15,
+  "account_value": 8840.55,
   "buying_power": 525.79,
   "cash": 525.79,
   "high_water_mark": 10338.52,
-  "prior_session_value": 8878.15,
-  "last_trade_date": "2026-10-19",
+  "prior_session_value": 8840.55,
+  "last_trade_date": "2026-10-20",
   "trades_today": 0,
-  "last_updated": "2026-10-19 11:19:43 ET",
+  "last_updated": "2026-10-20 11:11:46 ET",
   "build_phase": "active",
   "schema_version": "1.2",
-  "drawdown_pct": 14.13,
-  "notes": "Session 2026-10-19 (Mon): 0 TRADES — No entry triggers crossed. Broad sector bounce today (most AI names +1-8% from Fri). Drawdown 14.13% (Tier 1 reduced deployment). BE earns Oct 22 PM but above target at 6.34%. Tier 3 build phase still active at 14.2% combined (threshold 15%). IREN closest to T3 trigger at 1.39pp gap vs 1.5pp threshold. AMAT/VRT watching for 1.0pp tier4_low entry.",
+  "drawdown_pct": 14.49,
+  "notes": "Session 2026-10-20 (Tue): 0 TRADES — Broad AI selloff continues (most names -5% to -22% over 5d). Drawdown 14.49% (Tier 1). BE earns Oct 22 PM but above target 6.27%. Tier 3 build phase at 14.3% (threshold 15%). IREN 1.49pp gap vs 1.5pp T3 build threshold — 0.01pp from triggering. Approaching 15% drawdown pause threshold.",
   "positions": {
-    "NVDA": {
-      "value": 2144.47,
-      "pct": 24.15,
-      "qty": 9.832297,
-      "avg_cost": 196.64,
-      "lots": [],
-      "price": 218.105
-    },
-    "AVGO": {
-      "value": 1127.86,
-      "pct": 12.7,
-      "qty": 3.334114,
-      "avg_cost": 393.85,
-      "lots": [],
-      "price": 338.28
-    },
-    "MU": {
-      "value": 890.4,
-      "pct": 10.03,
-      "qty": 0.967392,
-      "avg_cost": 1088.85,
-      "lots": [],
-      "price": 920.415
-    },
-    "CEG": {
-      "value": 336.66,
-      "pct": 3.79,
-      "qty": 1.274665,
-      "avg_cost": 275.01,
-      "lots": [],
-      "price": 264.12
-    },
-    "GEV": {
-      "value": 335.79,
-      "pct": 3.78,
-      "qty": 0.363065,
-      "avg_cost": 1101.73,
-      "lots": [],
-      "price": 924.865
-    },
-    "VST": {
-      "value": 433.45,
-      "pct": 4.88,
-      "qty": 2.893021,
-      "avg_cost": 155.92,
-      "lots": [],
-      "price": 149.825
-    },
-    "BE": {
-      "value": 562.53,
-      "pct": 6.34,
-      "qty": 2.466602,
-      "avg_cost": 256.61,
-      "lots": [
-        {
-          "shares": 0.65628,
-          "cost_per_share": 228.56,
-          "date": "2026-10-16"
-        }
-      ],
-      "price": 228.06
-    },
-    "IREN": {
-      "value": 231.3,
-      "pct": 2.61,
-      "qty": 8.14433,
-      "avg_cost": 52.29,
-      "lots": [],
-      "price": 28.4
-    },
-    "APLD": {
-      "value": 364.97,
-      "pct": 4.11,
-      "qty": 18.697441,
-      "avg_cost": 32.51,
-      "lots": [],
-      "price": 19.52
-    },
-    "CORZ": {
-      "value": 316.31,
-      "pct": 3.56,
-      "qty": 22.626185,
-      "avg_cost": 22.76,
-      "lots": [],
-      "price": 13.98
-    },
-    "CRWV": {
-      "value": 348.22,
-      "pct": 3.92,
-      "qty": 5.540514,
-      "avg_cost": 90.33,
-      "lots": [],
-      "price": 62.85
-    },
-    "ASML": {
-      "value": 295.3,
-      "pct": 3.33,
-      "qty": 0.176262,
-      "avg_cost": 1140.8,
-      "lots": [],
-      "price": 1675.32
-    },
-    "NBIS": {
-      "value": 232.8,
-      "pct": 2.62,
-      "qty": 1.361138,
-      "avg_cost": 224.34,
-      "lots": [],
-      "price": 171.0325
-    },
-    "RIOT": {
-      "value": 171.25,
-      "pct": 1.93,
-      "qty": 12.077217,
-      "avg_cost": 22.68,
-      "lots": [],
-      "price": 14.18
-    },
-    "AMD": {
-      "value": 181.91,
-      "pct": 2.05,
-      "qty": 0.330279,
-      "avg_cost": 505.63,
-      "lots": [],
-      "price": 550.765
-    },
-    "AMAT": {
-      "value": 111.41,
-      "pct": 1.25,
-      "qty": 0.262156,
-      "avg_cost": 637.56,
-      "lots": [],
-      "price": 424.9899
-    },
-    "MRVL": {
-      "value": 152.01,
-      "pct": 1.71,
-      "qty": 0.626885,
-      "avg_cost": 266.52,
-      "lots": [],
-      "price": 242.49
-    },
-    "VRT": {
-      "value": 113.92,
-      "pct": 1.28,
-      "qty": 0.544555,
-      "avg_cost": 306.73,
-      "lots": [],
-      "price": 209.19
-    }
+    "NVDA": {"value": 2142.56, "pct": 24.24, "qty": 9.832297, "avg_cost": 196.64, "lots": [], "price": 217.91},
+    "AVGO": {"value": 1125.66, "pct": 12.73, "qty": 3.334114, "avg_cost": 393.85, "lots": [], "price": 337.62},
+    "MU": {"value": 888.26, "pct": 10.05, "qty": 0.967392, "avg_cost": 1088.85, "lots": [], "price": 918.2056},
+    "CEG": {"value": 334.69, "pct": 3.79, "qty": 1.274665, "avg_cost": 275.01, "lots": [], "price": 262.572},
+    "GEV": {"value": 328.5, "pct": 3.72, "qty": 0.363065, "avg_cost": 1101.73, "lots": [], "price": 904.81},
+    "VST": {"value": 435.05, "pct": 4.92, "qty": 2.893021, "avg_cost": 155.92, "lots": [], "price": 150.38},
+    "BE": {"value": 554.28, "pct": 6.27, "qty": 2.466602, "avg_cost": 256.61, "lots": [{"shares": 0.65628, "cost_per_share": 228.56, "date": "2026-10-16"}], "price": 224.715},
+    "IREN": {"value": 221.81, "pct": 2.51, "qty": 8.14433, "avg_cost": 52.29, "lots": [], "price": 27.235},
+    "APLD": {"value": 369.46, "pct": 4.18, "qty": 18.697441, "avg_cost": 32.51, "lots": [], "price": 19.76},
+    "CORZ": {"value": 320.61, "pct": 3.63, "qty": 22.626185, "avg_cost": 22.76, "lots": [], "price": 14.17},
+    "CRWV": {"value": 348.61, "pct": 3.94, "qty": 5.540514, "avg_cost": 90.33, "lots": [], "price": 62.92},
+    "ASML": {"value": 290.37, "pct": 3.28, "qty": 0.176262, "avg_cost": 1140.8, "lots": [], "price": 1647.38},
+    "NBIS": {"value": 233.58, "pct": 2.64, "qty": 1.361138, "avg_cost": 224.34, "lots": [], "price": 171.61},
+    "RIOT": {"value": 171.13, "pct": 1.94, "qty": 12.077217, "avg_cost": 22.68, "lots": [], "price": 14.17},
+    "AMD": {"value": 179.98, "pct": 2.04, "qty": 0.330279, "avg_cost": 505.63, "lots": [], "price": 544.935},
+    "AMAT": {"value": 106.87, "pct": 1.21, "qty": 0.262156, "avg_cost": 637.56, "lots": [], "price": 407.65},
+    "MRVL": {"value": 151.83, "pct": 1.72, "qty": 0.626885, "avg_cost": 266.52, "lots": [], "price": 242.19},
+    "VRT": {"value": 112.51, "pct": 1.27, "qty": 0.544555, "avg_cost": 306.73, "lots": [], "price": 206.605}
   },
   "tax_lots": [
     {"symbol": "NVDA", "quantity": 2.404387, "cost_basis": 190.115, "acquired": "2026-01-05", "term": "short", "notes": "original 2.629987sh; 0.225600sh consumed by FIFO sell 2026-07-13"},
@@ -230,5 +98,5 @@
     {"symbol": "VRT", "quantity": 0.544435, "cost_basis": 306.74, "acquired": "2026-06-26", "term": "short"}
   ],
   "pending_proposals": {},
-  "cash_pct": 5.92
+  "cash_pct": 5.95
 }
